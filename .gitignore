@@ -1,0 +1,25 @@
+
+node_modules/
+
+# Building output
+dist/
+build/
+
+# Logs files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files present
+.DS_Store
+Thumbs.db
+
+# Environment files are there
+.env
+
+# IDE settings configure
+.vscode/
+.idea/
+
+# Cache memory
+.cache/
